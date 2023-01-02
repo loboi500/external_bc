@@ -1,7 +1,3 @@
-{
-  "presubmit": [
-    {
-      "name": "bc-tests"
-    }
-  ]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:e1ebb4f3f2fdd77573faa8715619e2d60ad7a51bdda9185bc1146c680dedd7c2
+size 62

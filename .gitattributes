@@ -1,3 +1,38 @@
 *.vcxproj eol=crlf
 *.vcxproj.filters eol=crlf
 *.sln eol= crlf
+NEWS.md filter=lfs diff=lfs merge=lfs -text
+TEST_MAPPING filter=lfs diff=lfs merge=lfs -text
+exec-install.sh filter=lfs diff=lfs merge=lfs -text
+gen filter=lfs diff=lfs merge=lfs -text
+bc.sln filter=lfs diff=lfs merge=lfs -text
+safe-install.sh filter=lfs diff=lfs merge=lfs -text
+locales filter=lfs diff=lfs merge=lfs -text
+README.md filter=lfs diff=lfs merge=lfs -text
+RELEASE.md filter=lfs diff=lfs merge=lfs -text
+release.sh filter=lfs diff=lfs merge=lfs -text
+configure filter=lfs diff=lfs merge=lfs -text
+karatsuba.py filter=lfs diff=lfs merge=lfs -text
+include filter=lfs diff=lfs merge=lfs -text
+LICENSE filter=lfs diff=lfs merge=lfs -text
+locale_install.sh filter=lfs diff=lfs merge=lfs -text
+run-bc-tests-on-android.sh filter=lfs diff=lfs merge=lfs -text
+bcl.sln filter=lfs diff=lfs merge=lfs -text
+bc.vcxproj.filters filter=lfs diff=lfs merge=lfs -text
+bc.vcxproj filter=lfs diff=lfs merge=lfs -text
+configure.sh filter=lfs diff=lfs merge=lfs -text
+functions.sh filter=lfs diff=lfs merge=lfs -text
+manuals filter=lfs diff=lfs merge=lfs -text
+src filter=lfs diff=lfs merge=lfs -text
+bcl.vcxproj filter=lfs diff=lfs merge=lfs -text
+bcl.vcxproj.filters filter=lfs diff=lfs merge=lfs -text
+NOTICE.md filter=lfs diff=lfs merge=lfs -text
+LICENSE.md filter=lfs diff=lfs merge=lfs -text
+Makefile.in filter=lfs diff=lfs merge=lfs -text
+Android.bp filter=lfs diff=lfs merge=lfs -text
+locale_uninstall.sh filter=lfs diff=lfs merge=lfs -text
+METADATA filter=lfs diff=lfs merge=lfs -text
+OWNERS filter=lfs diff=lfs merge=lfs -text
+tests filter=lfs diff=lfs merge=lfs -text
+link.sh filter=lfs diff=lfs merge=lfs -text
+manpage.sh filter=lfs diff=lfs merge=lfs -text

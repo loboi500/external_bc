@@ -1,14 +1,3 @@
-# Notice
-
-Copyright 2018-2021 Gavin D. Howard and contributors.
-
-## Contributors
-
-The contributors to `bc` (besides Gavin) are listed below in alphabetical order.
-
-* Laurent Bercot (skarnet)
-* Stefan Eßer (stesser)
-* Michael Forney (michaelforney)
-* John Regan (jprjr)
-* rofl0r
-* Zach van Rijn (me@zv.io)
+version https://git-lfs.github.com/spec/v1
+oid sha256:1f2d8b5fd81c5238f08ca1a7d14c5914b7a3eb0713d03f58bd086510e2c0c441
+size 306
